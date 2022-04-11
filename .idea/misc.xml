@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/layout/activity_import.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/layout/activity_question.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/layout/activity_subject.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/layout/recycler_view_items.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/menu/context_menu.xml" value="0.1" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/menu/question_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/menu/subject_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/annak/Desktop/AndroidApplication/StudyHelper_Settings/app/src/main/res/xml/root_preferences.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
